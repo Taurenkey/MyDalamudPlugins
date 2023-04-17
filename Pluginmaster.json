@@ -13,9 +13,9 @@
       "UI",
       "utility"
     ],
-    "InternalName": "QoLBar Tweaked",
+    "InternalName": "QoLBar",
     "DalamudApiLevel": 8,
     "DownloadLinkInstall": "https://github.com/Taurenkey/MyDalamudPlugins/raw/main/QoLBar/latest.zip",
-    "AssemblyVersion": "1.0.0.0"
+    "AssemblyVersion": "3.0.0.0"
   }
 ]
