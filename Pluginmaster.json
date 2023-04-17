@@ -1,0 +1,17 @@
+{
+  "Author": "Taurenkey",
+  "Name": "QoL Bar Tweaked",
+  "Punchline": "QoL Bar but with more stuff",
+  "Description": "A plugin designed to provide a simple, customizable and always available interface for chat commands\nor other plugins to alleviate the need for using macros and hotbar space to achieve similar results.\n\nThe plugin should initially appear as a small box on the bottom center of the game window.",
+  "IconUrl": "",
+  "ImageUrls": [
+    ""
+  ],
+  "RepoUrl": "https://github.com/Taurenkey/QoLBar",
+  "CategoryTags": [
+    "UI",
+    "utility"
+  ],
+  "InternalName": "QoLBar Tweaked",
+  "DownloadLinkInstall": "https://github.com/Taurenkey/MyDalamudPlugins/raw/main/QoLBar/latest.zip",
+}
